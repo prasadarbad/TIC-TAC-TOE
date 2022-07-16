@@ -3,4 +3,8 @@
  
  # Screenshots
 
-![Game Start] <img src="https://github.com/prasadarbad/TIC-TAC-TOE/blob/main/screenshots/Screenshot_1657942355.png" height= "600"/>
+ <img src="https://github.com/prasadarbad/TIC-TAC-TOE/blob/main/screenshots/Screenshot_1657942355.png" height= "600"/>
+ 
+ <img src="https://github.com/prasadarbad/TIC-TAC-TOE/blob/main/screenshots/Screenshot_1657942369.png" height= "600"/>
+ 
+ <img src="https://github.com/prasadarbad/TIC-TAC-TOE/blob/main/screenshots/Screenshot_1657942404.png" height= "600"/>
